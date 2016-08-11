@@ -3,8 +3,8 @@
 ![](https://github.com/YinTokey/Algorithm-by-Swift/blob/master/%E9%A1%B9%E7%9B%AE/%E4%BB%BF%E6%90%9C%E7%8B%97%E9%98%85%E8%AF%BB.gif?raw=true)
 
 ### About
-Now I have completed those function:most of UI ,webView ,search fictions, add fictions to shelf and reading first chapter.
-If you like it,you can star my project. You can also fork it and be a contributer. I use Charles to get json data from the Sougou server.
+Now I have completed those functions:most of UI ,webView ,search fictions, add fictions to shelf and reading first chapter.
+If you like it,you can star my project. You can also fork it and be a contributor. I use Charles to get json data from the Sougou server.
 
 
 ### 完成情况（如gif图显示）
