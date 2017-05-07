@@ -4,7 +4,7 @@
 
 ### About
 Now I have completed those functions:most of UI ,webView ,search fictions, add fictions to shelf and reading first chapter.
-If you like it,you can star my project. You can also fork it and be a contributor. I use Charles to get json data from the Sougou server.
+If you like it,you can star my project. You can also fork it and be a contributor.
 
 
 ### 完成情况（如gif图显示）
