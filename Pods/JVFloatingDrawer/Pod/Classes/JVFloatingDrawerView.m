@@ -9,7 +9,7 @@
 #import "JVFloatingDrawerView.h"
 
 static const CGFloat kJVCenterViewContainerCornerRadius = 5.0;
-static const CGFloat kJVDefaultViewContainerWidth = 250.0;
+static const CGFloat kJVDefaultViewContainerWidth = 280.0;
 
 @interface JVFloatingDrawerView ()
 

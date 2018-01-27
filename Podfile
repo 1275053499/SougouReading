@@ -1,4 +1,5 @@
 platform:ios, '8.0'
+target '仿搜狗阅读' do
 pod 'MJExtension'
 pod 'SDWebImage'
 pod 'YTKNetwork'
@@ -8,3 +9,4 @@ pod 'JVFloatingDrawer'
 pod 'FMDB'
 pod 'SSZipArchive'
 pod 'MBProgressHUD'
+end

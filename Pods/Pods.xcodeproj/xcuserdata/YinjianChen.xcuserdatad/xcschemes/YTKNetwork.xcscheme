@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'E6D97BDA68C04D2A0DC83390'
-               BlueprintName = 'SSZipArchive'
+               BlueprintIdentifier = 'C265B8644107517550A8078BE70EE8C7'
+               BlueprintName = 'YTKNetwork'
                ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'libSSZipArchive.a'>
+               BuildableName = 'libYTKNetwork.a'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
